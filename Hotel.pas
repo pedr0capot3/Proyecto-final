@@ -1,4 +1,4 @@
-  {Programa para hacer reservaciones en un hotel
+                 {Programa para hacer reservaciones en un hotel
 * Realizado por:
 * Luis Narvaez;
 * Pedro Capote;
